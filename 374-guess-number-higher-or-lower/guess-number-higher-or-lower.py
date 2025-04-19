@@ -11,9 +11,10 @@ class Solution:
         while(l<=n):
             mid=(l+r)//2
             res=guess(mid)
-            if res==0:
-                return mid
-            elif res==-1:
+           
+            if res<0:
                 r=mid-1
-            else:
+            elif res>0:
                 l=mid+1
+            else:
+                return mid
