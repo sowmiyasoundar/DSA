@@ -11,7 +11,6 @@ class Solution:
         while(l<=n):
             mid=(l+r)//2
             res=guess(mid)
-           
             if res<0:
                 r=mid-1
             elif res>0:
