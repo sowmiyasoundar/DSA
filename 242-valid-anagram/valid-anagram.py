@@ -4,5 +4,4 @@ class Solution:
             return False
         s=s.replace(" ","").lower()
         t=t.replace(" ","").lower()
-
         return Counter(s)==Counter(t)
