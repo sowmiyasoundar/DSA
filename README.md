@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sowmiyasoundar/DSA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/sowmiyasoundar/DSA/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/sowmiyasoundar/DSA/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/sowmiyasoundar/DSA/tree/master/0792-binary-search) |
@@ -22,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sowmiyasoundar/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sowmiyasoundar/DSA/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
