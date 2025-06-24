@@ -38,6 +38,7 @@
 | [0189-rotate-array](https://github.com/sowmiyasoundar/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sowmiyasoundar/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sowmiyasoundar/DSA/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/sowmiyasoundar/DSA/tree/master/0415-add-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sowmiyasoundar/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sowmiyasoundar/DSA/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/sowmiyasoundar/DSA/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
@@ -68,4 +70,5 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sowmiyasoundar/DSA/tree/master/0012-integer-to-roman) |
+| [0415-add-strings](https://github.com/sowmiyasoundar/DSA/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
