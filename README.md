@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sowmiyasoundar/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/sowmiyasoundar/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sowmiyasoundar/DSA/tree/master/0258-add-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sowmiyasoundar/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Two Pointers
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sowmiyasoundar/DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/sowmiyasoundar/DSA/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sowmiyasoundar/DSA/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sowmiyasoundar/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
