@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sowmiyasoundar/DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/sowmiyasoundar/DSA/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/sowmiyasoundar/DSA/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -33,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sowmiyasoundar/DSA/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/sowmiyasoundar/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sowmiyasoundar/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sowmiyasoundar/DSA/tree/master/0258-add-digits) |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sowmiyasoundar/DSA/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/sowmiyasoundar/DSA/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
