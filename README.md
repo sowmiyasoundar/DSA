@@ -58,6 +58,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/sowmiyasoundar/DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/sowmiyasoundar/DSA/tree/master/0415-add-strings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/sowmiyasoundar/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Number Theory
 |  |
 | ------- |
@@ -71,4 +72,5 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/sowmiyasoundar/DSA/tree/master/0012-integer-to-roman) |
 | [0415-add-strings](https://github.com/sowmiyasoundar/DSA/tree/master/0415-add-strings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/sowmiyasoundar/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
