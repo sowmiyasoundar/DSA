@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/sowmiyasoundar/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/sowmiyasoundar/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sowmiyasoundar/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1603-running-sum-of-1d-array](https://github.com/sowmiyasoundar/DSA/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,4 +80,8 @@
 | [0012-integer-to-roman](https://github.com/sowmiyasoundar/DSA/tree/master/0012-integer-to-roman) |
 | [0415-add-strings](https://github.com/sowmiyasoundar/DSA/tree/master/0415-add-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sowmiyasoundar/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/sowmiyasoundar/DSA/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
